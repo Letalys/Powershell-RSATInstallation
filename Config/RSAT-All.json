@@ -1,0 +1,90 @@
+{
+  "rsat_features": {
+    "feature": [
+      {
+        "name": "ActiveDirectory.DS-LDS",
+        "install": true
+      },
+      {
+        "name": "BitLocker.Recovery",
+        "install": true
+      },
+      {
+        "name": "CertificateServices",
+        "install": true
+      },
+      {
+        "name": "DHCP",
+        "install": true
+      },
+      {
+        "name": "Dns",
+        "install": true
+      },
+      {
+        "name": "FailoverCluster.Management",
+        "install": true
+      },
+      {
+        "name": "FileServices",
+        "install": true
+      },
+      {
+        "name": "GroupPolicy.Management",
+        "install": true
+      },
+      {
+        "name": "IPAM.Client",
+        "install": true
+      },
+      {
+        "name": "LLDP",
+        "install": true
+      },
+      {
+        "name": "NetworkController",
+        "install": true
+      },
+      {
+        "name": "NetworkLoadBalancing",
+        "install": true
+      },
+      {
+        "name": "RemoteAccess.Management",
+        "install": true
+      },
+      {
+        "name": "RemoteDesktop.Services",
+        "install": true
+      },
+      {
+        "name": "ServerManager",
+        "install": true
+      },
+      {
+        "name": "Shielded.VM",
+        "install": true
+      },
+      {
+        "name": "StorageMigrationService.Management",
+        "install": true
+      },
+      {
+        "name": "StorageReplica",
+        "install": true
+      },
+      {
+        "name": "SystemInsights.Management",
+        "install": true
+      },
+      {
+        "name": "VolumeActivation",
+        "install": true
+      },
+      {
+        "name": "WSUS",
+        "install": true
+      }
+    ]
+  }
+}
